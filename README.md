@@ -54,7 +54,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
     </a>
-    <a href="[https://linkedin.com/in/dinidu dewmin ekanayake](https://www.linkedin.com/in/dinidu-dewmin-ekanayake-008a82173/)" target="blank">
+    <a href="https://www.linkedin.com/in/dinidu-dewmin-ekanayake-008a82173/" target="blank">
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" height="50" width="50">
     </a>
     <a href="https://fb.com/dinidu ekanayake" target="blank">
