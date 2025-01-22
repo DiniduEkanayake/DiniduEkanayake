@@ -13,7 +13,7 @@
     <tr border="none">
         <td width="50%" align="left">
             <ul>
-                <li>🌱 I’m currently learning <strong>Electrical & Electronics Engineering</strong></li>
+                <li>🌱 I’m currently learning <strong> BSc Special (Hons) in Engineering in Electrical and Electronics Degree</strong></li>
                 <li>🧑‍🎓 I’m an Undergraduate at <strong>South Eastern University of Sri Lanka</strong></li>
                 <li>💬 Ask me about <strong>Anything</strong></li>
                 <li>📫 How to reach me: <strong>dinidudew@gmail.com</strong></li>
