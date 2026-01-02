@@ -31,8 +31,6 @@
 <p align="center">
     <table align="center">
         <tr border="none">
-                <br><br>
-                <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiniduEkanayake&theme=dark&hide_border=false" title="🔥 Get streak stats for your profile at git.io/streak-stats">
             </td>
             <td width="50%" align="center">
                 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DiniduEkanayake&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" alt="Top Languages">
@@ -41,14 +39,6 @@
     </table>
 </p>
 <hr>
-
-<div align="center">
-    <h2>My Contributions</h2>
-    <br>
-    <img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" alt="snake eating my contributions">
-    <br><br><br>
-</div>
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
     </a>
