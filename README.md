@@ -12,10 +12,10 @@
 <table align="center">
     <tr border="none">
         <td width="50%" align="left">
-            <ul>
+            <ul style="list-style: none; padding-left: 0;">
                 <li>🎓 BSc Special (Hons) in Electrical & Electronics Engineering</li>
                 <li>🏫 South Eastern University of Sri Lanka</li>
-                <li>💡 Interests: Telecommunication, Networking , DevOps & Cloud Computing, AI & ML</li>
+                <li>💡 Skills: Telecommunication, Networking , DevOps & Cloud Computing, AI & ML</li>
                 <li>📫 Contact: <strong>dinidudew@gmail.com</strong></li>
             </ul>
         </td>
